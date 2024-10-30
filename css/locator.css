@@ -1,0 +1,19 @@
+div.agency_icon {
+	border: solid 1px transparent;
+	float: left;
+	min-width: 48px;
+	min-height: 48px;
+	text-align: center;
+}
+
+.locator_meta_control label
+{ display:inline; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+
+.locator_meta_control label span
+{ display:inline; font-weight:normal; }
+
+.locator_meta_control span
+{ margin-left: 5px; display:inline; }
+
+.locator_meta_control textarea, .locator_meta_control input[type='text']
+{ margin-bottom:3px; width:99%; }

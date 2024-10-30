@@ -1,0 +1,22 @@
+tr {
+	height: 70px;
+}
+
+td.agency_result{
+	font-size: 11px;
+	line-height: 15px;
+	vertical-align: top;
+	width: 50%;
+	border: 1px;
+}
+span {
+	display : inline-block;
+	font-size: 12px;
+}
+div.agency_result{
+	overflow:auto;
+	height: 350px;
+}
+tr.ligne_agency_result:hover {
+	background-color: #f9f9f9;
+}
